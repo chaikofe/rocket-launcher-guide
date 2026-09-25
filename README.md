@@ -28,15 +28,15 @@ Static-firing and launching rocket motors is dangerous. This controller is desig
 
 ## Sections
 
-- [Overview & How It Works](docs/01-overview.md)
-- [Bill of Materials](docs/02-bill-of-materials.md)
-- [Wiring](docs/03-wiring.md)
-- [Transmitter Code](docs/04-transmitter.md)
-- [Receiver Code](docs/05-receiver.md)
-- [Continuity Sensing](docs/06-continuity.md)
-- [Setup & First Test](docs/07-setup-and-test.md)
-- [Safety Procedure](docs/08-safety.md)
-- [Troubleshooting](docs/09-troubleshooting.md)
+- [Overview & How It Works](01-overview.md)
+- [Bill of Materials](02-bill-of-materials.md)
+- [Wiring](03-wiring.md)
+- [Transmitter Code](04-transmitter.md)
+- [Receiver Code](05-receiver.md)
+- [Continuity Sensing](06-continuity.md)
+- [Setup & First Test](07-setup-and-test.md)
+- [Safety Procedure](08-safety.md)
+- [Troubleshooting](09-troubleshooting.md)
 
 ## Code
 
