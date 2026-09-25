@@ -40,8 +40,8 @@ Static-firing and launching rocket motors is dangerous. This controller is desig
 
 ## Code
 
-- [Transmitter (GIGA)](code/transmitter/) — handheld controller with display
-- [Receiver (Nano R4)](code/receiver/) — launch-pad unit with relays
+- [Transmitter (GIGA)](/transmitter/) — handheld controller with display
+- [Receiver (Nano R4)](/receiver/) — launch-pad unit with relays
 
 ## License
 
