@@ -16,8 +16,6 @@ This guide walks through building a launch system that can:
 - Detect igniter continuity ("NO LOOP" warning) before firing
 - Send telemetry back from the pad to the controller
 
-It's written for someone with basic electronics knowledge (breadboarding, soldering, multimeter use) and beginner Arduino experience.
-
 ## Safety first
 
 Static-firing and launching rocket motors is dangerous. This controller is designed around multiple safety layers, but **you are responsible for safe operation**. Always:
