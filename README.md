@@ -43,6 +43,10 @@ Static-firing and launching rocket motors is dangerous. This controller is desig
 - [Transmitter (GIGA)](transmitter.ino) — handheld controller with display
 - [Receiver (Nano R4)](receiver.ino) — launch-pad unit with relays
 
+## Useful Diagrams
+
+- [View Transmitter Wiring Diagram](images/Transmitter%20Wiring%20Diagram.pdf)
+
 ## License
 
 MIT — free to use, modify, and share. Build responsibly.
